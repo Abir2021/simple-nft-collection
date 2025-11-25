@@ -1,4 +1,4 @@
-# 🎨 SimpleNFT - Basic NFT Collection
+# SimpleNFT - Basic NFT Collection
 
 A basic ERC-721 NFT collection built with Solidity and OpenZeppelin. This project demonstrates NFT minting, metadata, and ownership management.
 
