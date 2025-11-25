@@ -1,0 +1,17 @@
+```json
+{
+  "name": "simple-nft-collection",
+  "version": "1.0.0",
+  "description": "Basic NFT collection for learning ERC-721",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "keywords": ["nft", "erc721", "solidity", "ethereum", "web3"],
+  "author": "Abir",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
